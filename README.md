@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/Mobile App Development, really basic knowledge. ...
 - 🌱 I’m currently learning ... Flutter and a bit of C#
 - 💞️ I’m looking to collaborate on ... Any project that'll help me gain experience and grow.
-- 📫 How to reach me ... Twitter shago_mendo
+- 📫 How to reach me ... Twitter https://twitter.com/LiquidityOn
 
 
 <!---
